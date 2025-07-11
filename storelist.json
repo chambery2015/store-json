@@ -1,0 +1,14 @@
+[
+  {
+    "StoreId": "001",
+    "StoreName": "7-11 台北南京店",
+    "StoreAddr": "台北市中山區南京東路一段1號",
+    "StorePhone": "02-1234-5678"
+  },
+  {
+    "StoreId": "002",
+    "StoreName": "7-11 高雄大遠百店",
+    "StoreAddr": "高雄市苓雅區三多四路21號",
+    "StorePhone": "07-8765-4321"
+  }
+]
